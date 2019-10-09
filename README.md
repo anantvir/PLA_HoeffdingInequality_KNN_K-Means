@@ -1,7 +1,5 @@
-# PLA(Perceptron Learning Algorithm)
-# Hoeffding's Inequality Computer Simulation using Coin Analogy
-# K-Nearest Neighbour Algorithm
-# K-Means Algorithm
+# 1) PLA(Perceptron Learning Algorithm) 2) Hoeffding's Inequality Computer Simulation using Coin Analogy 3)K-Nearest Neighbour Algorithm 4) K-Means Algorithm
+
 
 To run the code, just change the file path to the path of dataset/images in your system
 
