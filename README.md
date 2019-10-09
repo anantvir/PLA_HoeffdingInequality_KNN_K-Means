@@ -1,4 +1,4 @@
-# Homework 4 ELEG 815 Statistical Learning I
+# ELEG 815 Statistical Learning I Homework 4
 
 1) PLA(Perceptron Learning Algorithm) 
 2) Hoeffding's Inequality Computer Simulation using Coin Analogy 
