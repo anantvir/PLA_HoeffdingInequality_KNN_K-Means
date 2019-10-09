@@ -1,4 +1,9 @@
-# 1) PLA(Perceptron Learning Algorithm) 2) Hoeffding's Inequality Computer Simulation using Coin Analogy 3)K-Nearest Neighbour Algorithm 4) K-Means Algorithm
+# Homework 4 ELEG 815 Statistical Learning I
+
+1) PLA(Perceptron Learning Algorithm) 
+2) Hoeffding's Inequality Computer Simulation using Coin Analogy 
+3)K-Nearest Neighbour Algorithm 
+4) K-Means Algorithm
 
 
 To run the code, just change the file path to the path of dataset/images in your system
