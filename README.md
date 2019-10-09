@@ -2,7 +2,7 @@
 
 1) PLA(Perceptron Learning Algorithm) 
 2) Hoeffding's Inequality Computer Simulation using Coin Analogy 
-3)K-Nearest Neighbour Algorithm 
+3) K-Nearest Neighbour Algorithm 
 4) K-Means Algorithm
 
 
